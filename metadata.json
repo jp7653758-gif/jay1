@@ -1,0 +1,6 @@
+{
+  "name": "Share by Jalpi",
+  "description": "Send big files straight from your browser to theirs, or upload them and share a link. Pay only for the gigabytes you send.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
